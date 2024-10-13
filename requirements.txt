@@ -9,6 +9,7 @@ Brotli==1.1.0
 certifi==2024.6.2
 charset-normalizer==3.3.2
 distro==1.9.0
+dj-database-url==2.2.0
 Django==5.0.7
 frozenlist==1.4.1
 h11==0.14.0
@@ -20,6 +21,7 @@ mutagen==1.47.0
 openai==1.35.10
 pillow==10.4.0
 psycopg2==2.9.9
+psycopg2-binary==2.9.9
 pycryptodomex==3.20.0
 pydantic==2.7.4
 pydantic_core==2.18.4
